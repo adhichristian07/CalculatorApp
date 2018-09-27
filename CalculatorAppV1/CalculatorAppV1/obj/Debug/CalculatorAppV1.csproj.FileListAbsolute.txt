@@ -1,0 +1,14 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\bin\Debug\CalculatorAppV1.exe.config
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.Form1.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.Properties.Resources.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.csproj.GenerateResource.Cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\bin\Debug\CalculatorAppV1.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\bin\Debug\CalculatorAppV1.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\bin\Debug\Interop.WMPLib.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\bin\Debug\AxInterop.WMPLib.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\Interop.WMPLib.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\AxInterop.WMPLib.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Adhi\CalculatorAppV1\CalculatorAppV1\obj\Debug\CalculatorAppV1.csproj.ResolveComReference.cache
